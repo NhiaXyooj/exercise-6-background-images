@@ -1,0 +1,18 @@
+.header{
+    background-image: url(images/3-fruit.jpg);
+    height: 300px;
+}
+.site-id{
+    background-color: rgba(255, 255, 255, 50%);
+    text-align: center;
+    border-top-color: rgb(146, 3, 3);
+    border-top-style: solid;
+    border-top-width: 5px;
+    margin-top: 0;
+}
+.wrapper{
+    background-color: #ffffff;
+}
+body{
+    background-color: rgb(255, 255, 223);
+}

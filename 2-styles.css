@@ -1,0 +1,11 @@
+.wrapper-2{
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(255, 166, 0);
+    background-color: rgb(250, 197, 82);
+    padding: 20px;
+}
+body{
+    background-image: url(images/2-square-tile.gif);
+    background-position: center center;
+}
